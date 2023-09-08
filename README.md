@@ -21,9 +21,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <br />
+
     <h3>👩‍💻 Blog</h3>
     <a href=https://velog.io/@ekkk> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ekkk">
     </a>
-    <p></p><img width="48%" src="https://velog-readme-stats.vercel.app/api?name=ekkk"></p>
+    <p><img width="48%" src="https://velog-readme-stats.vercel.app/api?name=ekkk"></p>
     [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ekkk)](https://velog.io/@ekkk)
 
