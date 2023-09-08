@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<br /><br />
+<br />
 
 <div>
     <h3>📚 Studying</h3>
@@ -25,6 +25,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
+
+<br />
+<br />
 
 <div>
     <h3>Blog</h3>
