@@ -30,3 +30,4 @@ Here are some ideas to get you started:
     </a>
     <p><img width="48%" src="https://velog-readme-stats.vercel.app/api?name=ekkk"></p>
 </div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ekkk)](https://velog.io/@ekkk)
