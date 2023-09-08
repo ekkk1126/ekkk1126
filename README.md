@@ -2,7 +2,7 @@
 **ekkk1126/ekkk1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-### Hi there 👋
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+### Hi there 👋
+
+<br /><br />
 
 <div>
     <h3>📚 Studying</h3>
