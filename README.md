@@ -1,3 +1,5 @@
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ekkk)](https://velog.io/@ekkk)
+
 <!--
 **ekkk1126/ekkk1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +32,4 @@ Here are some ideas to get you started:
     </a>
     <p><img width="48%" src="https://velog-readme-stats.vercel.app/api?name=ekkk"></p>
 </div>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ekkk)](https://velog.io/@ekkk)
+
