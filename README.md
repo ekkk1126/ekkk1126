@@ -14,22 +14,21 @@ Here are some ideas to get you started:
 
 -->
 
-    <div align= "text-align: left">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Studying </h3> <br> 
-    <div style="margin: 0 auto; text-align: left;" align= "left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          </div>
-    </div>
-    <br /><br />
-    <div align= "text-align: left">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Blog </h3> <br> 
-    <div align= "left"> <a href=https://velog.io/@ekkk> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ekkk">
-        <br />
-    </a>
-          </div>  <br> 
-    <div align= "left">  </div> 
-    </div>
+<div>
+    <h3>📚 Studying</h3>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+</div>
+
+<br />
+<br />
+
+<div>
+    <h3>Blog</h3>
+    <a href=https://velog.io/@ekkk> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ekkk">
+    </a>    
+</div>
     
 
