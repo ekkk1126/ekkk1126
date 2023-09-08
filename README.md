@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<br />
-
 <div>
     <h3>📚 Studying</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -27,10 +25,9 @@ Here are some ideas to get you started:
 </div>
 
 <br />
-<br />
 
 <div>
-    <h3>Blog</h3>
+    <h3>👩‍💻 Blog</h3>
     <a href=https://velog.io/@ekkk> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ekkk">
     </a>    
 </div>
